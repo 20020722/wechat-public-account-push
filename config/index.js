@@ -90,9 +90,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "高瑞敏", "year": "生日", "date": "02-05"},
-    {"type": "节日", "name": "一周年纪念日", "year": "节日", "date": "08-20"},
-    {"type": "生日", "name": "杨阳", "year": "生日", "date": "07-22"},
+    {"type": "生日", "name": "高瑞敏", "year": "2005", "date": "02-05"},
+    {"type": "节日", "name": "一周年纪念日", "year": "2026", "date": "08-20"},
+    {"type": "生日", "name": "杨阳", "year": "生日", "2002": "07-22"},
   ],
 
   /**
@@ -100,7 +100,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 3,
+  FESTIVALS_LIMIT: 0,
 
   /** 日期相关 */
 
@@ -112,7 +112,7 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2025-08-20"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2005-02-05"},
+    {"keyword": "marry_day", date: "2026-08-20"},
     // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
