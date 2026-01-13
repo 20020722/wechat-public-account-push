@@ -41,7 +41,7 @@ export const config = {
       // 所在城市
       city: "金昌",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
+      openUrl: "http://20020722.pw:1314/"
     }, 
     {
       name: "高瑞敏", 
@@ -49,7 +49,7 @@ export const config = {
       useTemplateId: "Higs35DrK5GlQ4hh8nZkHuzKDjax19wn_c2CbspZ-Wk",
       province: "甘肃",
       city: "金昌",
-      openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
+      openUrl: "http://20020722.pw:1314/"
     }, 
   ],
 
@@ -58,7 +58,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "rHOPTogvh25mHa3NaZUsSzTdcyKvtUKidBxZbVmcnWI",
+  CALLBACK_TEMPLATE_ID: "0sl_CQoe70fENQLPvZvMZbl86hWds2MTr4RJeluNGWo",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -90,8 +90,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "任洁", "year": "2005", "date": "06-29"},
-    {"type": "节日", "name": "一周年纪念日", "year": "2023", "date": "03-16"},
+    {"type": "生日", "name": "高瑞敏", "year": "2005", "date": "02-05"},
+    {"type": "节日", "name": "一周年纪念日", "year": "2026", "date": "08-20"},
     {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-22"},
   ],
 
@@ -110,7 +110,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2023-03-15"},
+    {"keyword": "love_day", date: "2025-08-20"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-07-09"},
     // 退伍日, 不用可以删掉
