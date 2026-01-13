@@ -33,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "杨阳",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oH0O_6vDEQbYiuKCTkVazKILwQ0w",
+      id: "oQz3i2zL_c_zvH1uvGN8e5Iu-c5M",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "-5ZG_ie8JtIB1K59nFBtwAsJ3fUZub_4-UENI5KRjZQ",
+      useTemplateId: "Higs35DrK5GlQ4hh8nZkHuzKDjax19wn_c2CbspZ-Wk",
       // 所在省份
       province: "甘肃",
       // 所在城市
@@ -44,9 +44,9 @@ export const config = {
       openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
     }, 
     {
-      name: "任洁", 
-      id: "oH0O_6mS8IE8PY9kGhxm5xNdAnKI",
-      useTemplateId: "-5ZG_ie8JtIB1K59nFBtwAsJ3fUZub_4-UENI5KRjZQ",
+      name: "高瑞敏", 
+      id: "oQz3i21XHMboCYsvAxoEHlpeTBLw",
+      useTemplateId: "Higs35DrK5GlQ4hh8nZkHuzKDjax19wn_c2CbspZ-Wk",
       province: "甘肃",
       city: "金昌",
       openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
@@ -66,7 +66,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oH0O_6vDEQbYiuKCTkVazKILwQ0w",
+      id: "oQz3i2zL_c_zvH1uvGN8e5Iu-c5M",
     }, 
   ],
     
