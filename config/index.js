@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oQz3i2zL_c_zvH1uvGN8e5Iu-c5M",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Xqeh0pLt2fSx-ECEziRxKpPZn42dfWOfcHrevkxUJk0",
+      useTemplateId: "GUXUFX8yJuYxxI4LLC7Iv-3lvnVssjLMckRGUQ1iTCM",
       // 所在省份
       province: "甘肃",
       // 所在城市
@@ -100,7 +100,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 0,
+  FESTIVALS_LIMIT: 3,
 
   /** 日期相关 */
 
@@ -112,7 +112,7 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2025-08-20"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-07-09"},
+    {"keyword": "marry_day", date: "2005-02-05"},
     // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
@@ -143,7 +143,7 @@ export const config = {
   
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: ""
+  LITERARY_PREFERENCE: "网络"
 
 
 }
