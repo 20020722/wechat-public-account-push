@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oQz3i2zL_c_zvH1uvGN8e5Iu-c5M",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "gKU_YU9xZ7ziVh-HAzPYdJwOELsc_okM2RZXkao1vnE",
+      useTemplateId: "Tx7gdgwCv0u-DioZ_j4jxYkJKdwy47Ede9vt9q4iI4s",
       // 所在省份
       province: "甘肃",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "高瑞敏", 
       id: "oQz3i21XHMboCYsvAxoEHlpeTBLw",
-      useTemplateId: "gKU_YU9xZ7ziVh-HAzPYdJwOELsc_okM2RZXkao1vnE",
+      useTemplateId: "	Tx7gdgwCv0u-DioZ_j4jxYkJKdwy47Ede9vt9q4iI4s",
       province: "甘肃",
       city: "金昌",
       openUrl: "http://20020722.pw:1314/"
