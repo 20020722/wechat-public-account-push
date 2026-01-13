@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oQz3i2zL_c_zvH1uvGN8e5Iu-c5M",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "esicw3qiujqnlruMP7CB5vQlyP9OqOmkrwiK9qb6QIo",
+      useTemplateId: "gKU_YU9xZ7ziVh-HAzPYdJwOELsc_okM2RZXkao1vnE",
       // 所在省份
       province: "甘肃",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "高瑞敏", 
       id: "oQz3i21XHMboCYsvAxoEHlpeTBLw",
-      useTemplateId: "esicw3qiujqnlruMP7CB5vQlyP9OqOmkrwiK9qb6QIo",
+      useTemplateId: "gKU_YU9xZ7ziVh-HAzPYdJwOELsc_okM2RZXkao1vnE",
       province: "甘肃",
       city: "金昌",
       openUrl: "http://20020722.pw:1314/"
@@ -90,9 +90,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "高瑞敏", "year": "2005", "date": "02-05"},
-    {"type": "节日", "name": "一周年纪念日", "year": "2026", "date": "08-20"},
-    {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-22"},
+    {"type": "生日", "name": "高瑞敏", "year": "生日", "date": "02-05"},
+    {"type": "节日", "name": "一周年纪念日", "year": "节日", "date": "08-20"},
+    {"type": "生日", "name": "杨阳", "year": "生日", "date": "07-22"},
   ],
 
   /**
