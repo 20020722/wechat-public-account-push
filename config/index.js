@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oQz3i2zL_c_zvH1uvGN8e5Iu-c5M",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Higs35DrK5GlQ4hh8nZkHuzKDjax19wn_c2CbspZ-Wk",
+      useTemplateId: "esicw3qiujqnlruMP7CB5vQlyP9OqOmkrwiK9qb6QIo",
       // 所在省份
       province: "甘肃",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "高瑞敏", 
       id: "oQz3i21XHMboCYsvAxoEHlpeTBLw",
-      useTemplateId: "Higs35DrK5GlQ4hh8nZkHuzKDjax19wn_c2CbspZ-Wk",
+      useTemplateId: "esicw3qiujqnlruMP7CB5vQlyP9OqOmkrwiK9qb6QIo",
       province: "甘肃",
       city: "金昌",
       openUrl: "http://20020722.pw:1314/"
@@ -100,7 +100,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 3,
+  FESTIVALS_LIMIT: 0,
 
   /** 日期相关 */
 
